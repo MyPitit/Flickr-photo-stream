@@ -41,7 +41,7 @@ This will start the test runner.
 + Single page App.
 + ```HTML``` and ```CSS``` (using pre-compilers such as ```Sass``` or ```LESS```).
 + This app support the major browsers (```Chrome```, ```Firefox```, ```Safari```, ```IE10+```).
-+ Use a framework to speed up development time.
++ Use of React framework to speed up development time.
 
 ### Stretch goals
 + Use other ```Flickr API```, that might require an ```API key```.
